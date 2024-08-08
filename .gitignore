@@ -12,3 +12,4 @@ check_code_cleanliness_workspace/
 .tycho-consumer-pom.xml
 /eclipse/
 /*~
+"build/org.eclipse.cdt.build.gcc.core/.settings/" 
